@@ -93,6 +93,8 @@ The performance of each model is evaluated based on various performance metrics 
 accuracy and prediction latency to show its effectiveness in recognizing handwritten digits from the test
 dataset.
 
+<br/>
+
 #### **PREDICTION ACCURACY**
 Accuracy is defined as correct predictions / total number of datapoints. The following table shows the
 accuracy of predicting labels of test data, obtained using **accuracy_score()** function, sorted from highest
