@@ -16,7 +16,7 @@ based on their accuracy, characteristics and also the limitations of each learni
 The MNIST dataset consists of 8x8 pixel images of handwritten digits in grayscale, such as the following
 image: 
 
-![MNIST](2b.png)
+![MNIST](2b.PNG)
 
 The total number of datapoints is 1797, which are embedded in a 64-dimension space. This dataset can
 be classified into 10 classes (target), into their actual digits 0 to 9. Each datapoint is an 8 by 8 array, which
@@ -24,7 +24,7 @@ can be flattened into an 8 * 8 = 64-dimensional vector. Each component of the ve
 value between 0 and 15, describing the intensity of the pixel. The image below shows the flattened data
 matrix for 0.
 
-![data matrix](2c.png)
+![data matrix](2c.PNG)
 
 <br/>
 
